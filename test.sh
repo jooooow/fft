@@ -1,0 +1,10 @@
+./fft_1d 8
+./fft_1d 16
+./fft_1d 32
+./fft_1d 64
+./fft_1d 128
+./fft_1d 256
+./fft_1d 512
+./fft_1d 1024
+./fft_1d 2048
+./fft_1d 4096
