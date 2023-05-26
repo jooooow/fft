@@ -1,2 +1,3 @@
 *.o
 .vscode
+fft_1d
